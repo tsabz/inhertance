@@ -1,6 +1,6 @@
 # Implementing a Superclass Employee
 
-# inhertance
+### inhertance
 
 Part 1: Implement a superclass Employee that has the following fields and methods.
 
